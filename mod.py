@@ -10,9 +10,9 @@ class Foo:
 
 James = Foo()
 
-if (__name__ == '__main__'):
-    James.name = "James"
-    James.job = "Physio"
 
-    print(James.name)
+James.name = "James"
+James.job = "Physio"
+
+    
 
